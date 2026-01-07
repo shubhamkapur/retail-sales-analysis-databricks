@@ -1,7 +1,7 @@
 # Retail Sales Analysis using Azure Databricks & Spark SQL
 
 ## Project Overview
-This project analyzes multi-year retail sales data to uncover revenue trends, store efficiency, and product performance. The analysis was performed using Azure Databricks and Spark SQL to simulate large-scale data processing and analytics.
+This project analyzes multi-year retail sales data to uncover revenue trends, store efficiency, and product performance. The analysis was performed using Azure Databricks and Spark SQL to simulate large-scale data processing and analytics. Dashboards created in Databricks SQL for interactive analysis
 
 ---
 
