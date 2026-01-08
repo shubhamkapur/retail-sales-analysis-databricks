@@ -51,6 +51,19 @@ The datasets were cleaned and combined using **INNER JOINs** in Spark SQL.
 
 ---
 
+## Key Visualizations
+
+### Year-on-Year Revenue
+![YoY Revenue](assets/visual/YoY_revenue.png)
+
+### Top 10 Products by Revenue
+![Top Products](assets/visual/top10_max_revenue_products.png)
+
+### Sales per Square Foot by Region
+![Sales per Sq Ft](assets/visual/sales_per_sq_ft_grpby_store_region.png)
+
+---
+
 ## Conclusion
 This project demonstrates how analytical KPIs and scalable data tools can be used to extract actionable insights from retail datasets, supporting data-driven decision-making.
 
