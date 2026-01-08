@@ -54,13 +54,13 @@ The datasets were cleaned and combined using **INNER JOINs** in Spark SQL.
 ## Key Visualizations
 
 ### Year-on-Year Revenue
-![YoY Revenue](assets/visual/YoY_revenue.png)
+![YoY Revenue](assets/visuals/YoY_revenue.png)
 
 ### Top 10 Products by Revenue
-![Top Products](assets/visual/top10_max_revenue_products.png)
+![Top Products](assets/visuals/top10_max_revenue_products.png)
 
 ### Sales per Square Foot by Region
-![Sales per Sq Ft](assets/visual/sales_per_sq_ft_grpby_store_region.png)
+![Sales per Sq Ft](assets/visuals/sales_per_sq_ft_grpby_store_region.png)
 
 ---
 
