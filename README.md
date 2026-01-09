@@ -60,7 +60,7 @@ The project follows a Medallion Architecture using Azure Data Lake Storage:
 - silver: joined & validated datasets
 - gold: analytics-ready aggregates
 
-![ADLS Folder Structure](assets/visuals/adls_file_structure.jpg)
+![ADLS Folder Structure](assets/visuals/adls_medallion_structure.jpg)
 
 ---
 
