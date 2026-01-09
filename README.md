@@ -51,6 +51,29 @@ The datasets were cleaned and combined using **INNER JOINs** in Spark SQL.
 
 ---
 
+## Data Lake Structure (ADLS Gen2)
+
+The project follows a Medallion Architecture using Azure Data Lake Storage:
+
+- raw: source files (CSV)
+- bronze: cleaned Delta tables
+- silver: joined & validated datasets
+- gold: analytics-ready aggregates
+
+![ADLS Folder Structure](assets/visuals/adls_file_structure.png)
+
+---
+
+## Gold Layer – Sales by Region
+
+This Gold table aggregates total sales and quantity by store region,
+making it analytics- and BI-ready. Insights: North region has the highest total sales, 
+followed by West and East, indicating stronger store performance in northern markets.
+
+![Gold Sales by Region](assets/visuals/databricks_gold_sales_by_region_output.png)
+
+---
+
 ## Key Visualizations
 
 ### Year wise sales per region
