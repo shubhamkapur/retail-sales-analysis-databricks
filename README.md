@@ -60,7 +60,7 @@ The project follows a Medallion Architecture using Azure Data Lake Storage:
 - silver: joined & validated datasets
 - gold: analytics-ready aggregates
 
-![ADLS Folder Structure](assets/visuals/adls_file_structure.png)
+![ADLS Folder Structure](assets/visuals/adls_file_structure.jpg)
 
 ---
 
@@ -70,7 +70,7 @@ This Gold table aggregates total sales and quantity by store region,
 making it analytics- and BI-ready. Insights: North region has the highest total sales, 
 followed by West and East, indicating stronger store performance in northern markets.
 
-![Gold Sales by Region](assets/visuals/databricks_gold_sales_by_region_output.png)
+![Gold Sales by Region](assets/visuals/databricks_gold_sales_by_region_output.jpg)
 
 ---
 
