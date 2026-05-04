@@ -89,6 +89,9 @@ followed by West and East, indicating stronger store performance in northern mar
 ### Product wise revenue
 ![Product wise revenue](assets/visuals/product_wise_revenue.png)
 
+### Revenue generated per sqfeet of store area
+![Revenue generated per Sq Ft](assets/visuals/sales_per_sqfeet.png)
+
 ---
 
 ## Conclusion
